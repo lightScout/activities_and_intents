@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivitiesAndIntents</string>
+    <string name="score_text">%s Score: %d</string>
+</resources>
